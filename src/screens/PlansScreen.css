@@ -1,0 +1,77 @@
+/* BASIC PLAN */
+.plansScreen_Basic {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 20px;
+}
+
+.plansScreen_Basic > h5 > span {
+  color: #e50914;
+}
+
+.plansScreen_Basic > button {
+  padding: 8px;
+  border: none;
+  background-color: #e50914;
+  color: white;
+  border-radius: 5px;
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+.plansScreen_Basic > button:hover {
+  opacity: 1;
+}
+
+/* STANDARD PLAN */
+.plansScreen_Standard {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 20px;
+}
+
+.plansScreen_Standard > h5 > span {
+  color: #e50914;
+}
+
+.plansScreen_Standard > button {
+  padding: 8px;
+  border: none;
+  background-color: #e50914;
+  color: white;
+  border-radius: 5px;
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+.plansScreen_Standard > button:hover {
+  opacity: 1;
+}
+
+/* PREMIUM PLAN */
+.plansScreen_Premium {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 20px;
+}
+
+.plansScreen_Premium > h5 > span {
+  color: #e50914;
+}
+
+.plansScreen_Premium > button {
+  padding: 8px;
+  border: none;
+  background-color: #e50914;
+  color: white;
+  border-radius: 5px;
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+.plansScreen_Premium > button:hover {
+  opacity: 1;
+}
